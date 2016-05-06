@@ -294,7 +294,7 @@ Group Butler uses dkjson, a pure-Lua JSON parser. This is provided with the code
 ##Contributors
 Everybody is free to contribute to otouto and to Group Butler.
 
-The official [Group Butler](http://github.com/groupbutler_bot). Yes, if you are wondering, is off.
+The official [PrimeHelperbot](http://github.com/PrimeHelperbot). Yes, if you are wondering, is off.
 
 ##Credits
 Topkecleon, for the original bot.lua and bindings.lua
